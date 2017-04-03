@@ -9,8 +9,7 @@ html, body, {
   display: block;
   width: 269px;
   height: 95px;
-  margin-top: 108px;
-  padding-top:112px;
+  padding-top:180px;
   padding-bottom: 5px;
   margin: 0;
   padding-left: 12%;
@@ -35,7 +34,7 @@ max-width: 100%;
 border-style: solid 1px color: grey;
 background-color: #e4e4e4;
 height: 26px;
-margin-top: 26.7%;
+margin-top: 275px;
 }
 .nav ul{
   list-style-type: none;
