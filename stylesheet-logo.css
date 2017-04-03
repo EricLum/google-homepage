@@ -5,7 +5,43 @@
   margin:auto;
   margin-top: 108px;
   padding-top:112px;
+  padding-bottom: 5px;
 }
-p {
-  background-color: red;
+.searchbar {
+  max-width: 75%;
+}
+.searchbar input {
+  padding-top: 10px;
+  width: 75%;
+}
+.searchbar img {
+  max-height: 20px
+}
+.buttons table {
+  display: block;
+  opacity: .8;
+  color: black;
+  margin-left:  35%;
+}
+.nav {
+max-width: 100%;
+border-style: dotted;
+margin-top: 70%;
+}
+.nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.nav li {
+  display: inline;
+  border-right: 1px solid ;
+  background-color: #c1c5cc;
+  font-size: 25px;
+}
+.nav #leftlist {
+  float: left;
+}
+.nav #rightList {
+  float:right;
 }
